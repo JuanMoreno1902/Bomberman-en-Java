@@ -71,5 +71,5 @@ Esta estructura permite mantener el código modular, extensible y escalable.
 1️⃣ Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/bomberman-java.git
+git clone https://github.com/JuanMoreno1902/bomberman-java.git
 
